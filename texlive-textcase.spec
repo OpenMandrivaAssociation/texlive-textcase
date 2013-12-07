@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-textcase
 Version:	20070301
-Release:	4
+Release:	5
 Summary:	Case conversion ignoring mathematics, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textcase
