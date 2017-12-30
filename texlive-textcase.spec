@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-textcase
-Version:	20070301
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Case conversion ignoring mathematics, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textcase
