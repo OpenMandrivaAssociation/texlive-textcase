@@ -1,6 +1,6 @@
 Name:		texlive-textcase
-Version:	63868
-Release:	2
+Version:	67755
+Release:	1
 Summary:	Case conversion ignoring mathematics, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textcase
