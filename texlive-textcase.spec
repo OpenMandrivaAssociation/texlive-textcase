@@ -3,7 +3,7 @@ Version:	67755
 Release:	1
 Summary:	Case conversion ignoring mathematics, etc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textcase
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/textcase
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textcase.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textcase.doc.r%{version}.tar.xz
