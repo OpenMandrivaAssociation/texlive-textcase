@@ -1,5 +1,5 @@
 Name:		texlive-textcase
-Version:	67755
+Version:	74064
 Release:	1
 Summary:	Case conversion ignoring mathematics, etc
 Group:		Publishing
